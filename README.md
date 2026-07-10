@@ -4,7 +4,6 @@
     <title>My Personal Profile Webpage</title>
 </head>
 <body>
-
     <h1>Welcome to My Personal Profile</h1>
     <p>Hi! I'm [Richard P. Diocares]. This webpage shows more about me.</p>
     <hr>
@@ -12,16 +11,12 @@
     <ul type="square">
         <li>Playing basketball</li><li>Listening to Music</li><li>Watching Movies and Series</li><li>Reading Books</li><li>Playing piano</li>
     </ul>
-
     <hr>
-
     <h2>2. My Top 5 Favorite Foods</h2>
     <ol type="A">
         <li>pinakupsan na baboy</li<li>manggofloat</li><li>lechon</li><li>Burgers</li><li>Ice Cream</li>
     </ol>
-
     <hr>
-
     <h2>3. My Educational Goals</h2>
     <ol start="5">
         <li>Graduate Senior High School with my classmate</li><li>Get a Scholarship for College</li><li>To learn and improve my skills in ict</li>
